@@ -3,7 +3,7 @@
 ## 📑Table of contents 
 
 - [Introduction](#introduction)
--[Website Link](#link)
+- [Website Link](#link)
 - [Screens](#screens)
 
 
