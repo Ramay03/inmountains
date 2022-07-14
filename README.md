@@ -1,4 +1,4 @@
-# quizzing
+#Quizzing
 
 ## 📑Table of contents 
 
